@@ -3,30 +3,30 @@ import { Project, SkillCategory, Experience } from "@/types";
 export const projects: Project[] = [
   {
     id: "1",
-    title: "E-Commerce Dashboard",
-    description: "A performant admin dashboard with real-time analytics, built with React and TypeScript. Features optimized rendering and state management.",
-    tags: ["React", "TypeScript", "Tailwind CSS", "Chart.js"],
-    githubUrl: "https://github.com/yourusername/ecommerce-dashboard",
-    liveUrl: "https://demo.yourdomain.com",
-    image: "/projects/project-1.jpg", // Add your project image here
+    title: "Skill and Assessment ability program",
+    description: "An advanced platform designed to evaluate and track user skills through interactive assessments. It provides administrators with powerful tools to manage assessments, monitor performance, and analyze results in real time, ensuring accurate measurement of abilities and progress.",
+    tags: ["Nuxt.js", "JavaScript", "Tailwind CSS","Laravel Api", "Chart.js"],
+    githubUrl: "https://github.com/NunCoding/assessment-knowledge",
+    liveUrl: "https://assessment-knowledge.vercel.app/",
+    image: "/images/assessment.png",
   },
   {
     id: "2",
-    title: "Task Management App",
-    description: "Collaborative task manager with drag-and-drop functionality. Focused on clean architecture and accessibility standards.",
-    tags: ["Next.js", "React DnD", "Prisma", "PostgreSQL"],
-    githubUrl: "https://github.com/yourusername/task-manager",
-    liveUrl: "https://tasks.yourdomain.com",
-    image: "/projects/project-2.jpg", // Add your project image here
+    title: "AgriConnect",
+    description: "A digital agriculture marketplace that connects farmers directly with consumers. It helps farmers sell at fair prices while giving consumers access to fresh, local produce with secure and transparent transactions.",
+    tags: ["Nextjs", "Typescript", "shadcn"],
+    githubUrl: "https://github.com/NunCoding/agri_connect",
+    liveUrl: "#",
+    image: "/images/agriconnect.png",
   },
   {
     id: "3",
-    title: "Weather Forecast PWA",
-    description: "Progressive Web App delivering real-time weather data with offline support. Optimized for performance and mobile experience.",
-    tags: ["React", "PWA", "API Integration", "Service Workers"],
-    githubUrl: "https://github.com/yourusername/weather-pwa",
-    liveUrl: "https://weather.yourdomain.com",
-    image: "/projects/project-3.jpg", // Add your project image here
+    title: "Room Rent Management System",
+    description: "A comprehensive platform for managing room rentals, including booking, payment processing, and tenant communication.",
+    tags: ["Nextjs", "TypeScript", "Tailwind CSS", "Node.js"],
+    githubUrl: "https://github.com/NunCoding/room-rent-dashboard",
+    liveUrl: "https://room-rent-mg.netlify.app/",
+    image: "/images/room_rent.png",
   },
 ];
 
@@ -103,7 +103,7 @@ export const experiences: Experience[] = [
 ];
 
 export const aboutMe = {
-  headline: "Junior Frontend Developer",
+  headline: "Frontend Developer",
   tagline: "Building Fast, Accessible, and Beautiful Web Experiences",
   summary: "I'm a passionate frontend developer who believes great code is clean, performant, and user-centered. With a strong foundation in React and TypeScript, I focus on writing maintainable code that scales. I'm constantly learning, experimenting with new patterns, and refining my craft to deliver exceptional digital experiences.",
   cta: "View My Work",

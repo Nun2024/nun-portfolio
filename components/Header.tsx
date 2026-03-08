@@ -65,10 +65,10 @@ export function Header() {
                 className="absolute inset-0 bg-gradient-to-br from-purple-600 to-blue-500 opacity-0 group-hover:opacity-100 transition-opacity"
                 initial={false}
               />
-              <span className="relative text-white font-bold text-xl">N</span>
+              <span className="relative text-white font-bold text-xl">SN</span>
             </div>
             <span className="text-xl font-bold text-white hidden sm:block">
-              Nunsian
+              Sian Nun
             </span>
           </motion.a>
 
