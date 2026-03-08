@@ -1,4 +1,4 @@
-# Junior Frontend Developer Portfolio
+# Frontend Developer Portfolio
 
 A modern, high-converting portfolio website built with Next.js 16, React 19, TypeScript, and Tailwind CSS 4. Features a dark theme with glassmorphism effects, smooth animations, and full accessibility support.
 
